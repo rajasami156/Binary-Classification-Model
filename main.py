@@ -18,7 +18,7 @@ load_dotenv()
 api_key= os.getenv("openai_api_key") 
 client_openai = OpenAI(api_key=api_key)
 app = Flask(__name__)
-account_sid = os.getenv("twiliio_account_side")
+account_sid = os.getenv("twilio_account_side")
 auth_token = os.getenv("twillio_auth_token")
 client = Client(account_sid, auth_token)
 
