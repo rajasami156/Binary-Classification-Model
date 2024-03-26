@@ -1,0 +1,479 @@
+message,label
+tree branch fell on car,emergency
+"heard a loud crash outside, sounds serious",emergency
+appreciation for the teacher,non-emergency
+need help with a flat tire,non-emergency
+"booked a trip to Hawaii, excited!",non-emergency
+"lost my house keys, cant get inside",emergency
+cant find my cat,non-emergency
+received a strange charge on my rent bill,non-emergency
+water pressure is very low,non-emergency
+found a set of keys in the lobby,non-emergency
+fire in the kitchen,emergency
+reminder for lease agreement update,non-emergency
+the neighbors are playing loud music again,non-emergency
+carbon monoxide detector is beeping,emergency
+lost my key in the park,non-emergency
+dishwasher not draining,emergency
+request to repaint living room,non-emergency
+water leak under the sink,emergency
+"the balcony door wont lock, security issue",emergency
+lost electricity in the middle of cooking dinner,emergency
+air conditioning unit not working,emergency
+happy anniversary!,non-emergency
+Do you have Internet?,non-emergency
+flood in the basement after the rain,emergency
+booked a vacation!,non-emergency
+appreciation post for the maintenance team,non-emergency
+saw someone suspicious loitering in the parking lot,emergency
+the front gate won’t open with my code,non-emergency
+kitchen sink is clogged,emergency
+AC unit is making a strange noise,non-emergency
+need the number for maintenance,non-emergency
+update contact information request,non-emergency
+power outage in my neighborhood,non-emergency
+water pooling on the bathroom floor,emergency
+loud noises coming from upstairs,non-emergency
+tree fell and blocked the driveway,emergency
+traffic jam on the highway,emergency
+happy birthday!,non-emergency
+bank statement looks suspicious,non-emergency
+broken window lock,emergency
+no hot water in shower,emergency
+the fridge stopped working overnight,emergency
+"found a lost wallet, DM for details",non-emergency
+"elevator stuck, please send help",emergency
+compliments for the new paint job,non-emergency
+water leaking from ceiling,emergency
+ceiling leak in living room,emergency
+dispute over parking space with neighbor,non-emergency
+"feeling unwell, need medical attention",emergency
+"overwhelmed with work, need a break",non-emergency
+heating system not working,emergency
+new gym equipment installed,non-emergency
+someone broke into the mailroom,emergency
+parking lot resurfacing update,non-emergency
+power outage in my apartment,non-emergency
+What is the password for Wifi?,non-emergency
+broken window from the storm last night,emergency
+faucet is leaking,emergency
+mold spotted on the bathroom ceiling,emergency
+compliments for the delivery guy,non-emergency
+"feeling overwhelmed, need to talk",non-emergency
+smoke alarm won't stop beeping,emergency
+the air conditioner has broken down in the heatwave,emergency
+routine pest control service,non-emergency
+broken elevator,emergency
+loud party noises at 3 AM,non-emergency
+noise complaint from neighbor,non-emergency
+"leaking ceiling in the living room, water everywhere",emergency
+"lost phone, please contact if found",non-emergency
+fire detected in basement,emergency
+argument with a neighbor,non-emergency
+scheduled property inspection,non-emergency
+planned power outage notice,non-emergency
+internet connection is down,non-emergency
+package delivered to front office,non-emergency
+craving sushi tonight,non-emergency
+"gas smell in the building, seems like a leak",emergency
+smoke detector keeps beeping,emergency
+"received my deposit refund, thank you",non-emergency
+can't access the online rent payment system,non-emergency
+congratulations on your promotion!,non-emergency
+friendly reminder about rent due,non-emergency
+"got the job promotion, lets celebrate!",non-emergency
+craving pizza for dinner,non-emergency
+overflowing toilet,emergency
+suspicious activity outside my window,emergency
+water pressure is too low to shower,non-emergency
+garbage disposal not working,emergency
+What's the door lock?, non-emergency
+smoke coming from the oven,emergency
+lost mailbox key,non-emergency
+car accident on Main Street,emergency
+"alarm keeps going off, cant figure out why",non-emergency
+internet connection is down again,non-emergency
+suspicious person in parking lot,emergency
+"rat sightings in the kitchen, need extermination",emergency
+annual lease renewal reminder,non-emergency
+the air conditioner isn't working,emergency
+neighbors are being too loud at night,non-emergency
+smell gas in the kitchen,emergency
+looking for a pet-friendly apartment,non-emergency
+the refrigerator is leaking water,emergency
+need help setting up the Wi-Fi,non-emergency
+there's a strange odor in the bathroom,non-emergency
+fire alarm keeps beeping,emergency
+want to extend my lease,non-emergency
+security camera not working properly,non-emergency
+can't get the heater to turn on,emergency
+thinking about upgrading the kitchen appliances,non-emergency
+noticed a leak in the ceiling,emergency
+requesting a copy of the lease agreement,non-emergency
+experiencing mold in the bathroom,emergency
+wondering if utilities are included in the rent,non-emergency
+need help with garbage disposal maintenance,non-emergency
+locked out of the apartment,emergency
+requesting permission to paint the walls,non-emergency
+suspicious activity near the building,emergency
+looking for parking options for guests,non-emergency
+apartment showing signs of pest infestation,emergency
+inquiring about renter's insurance coverage,non-emergency
+power outage in the building,emergency
+interested in renewing the lease for another year,non-emergency
+broken window in the living room,emergency
+asking about recycling guidelines,non-emergency
+smoke detector going off randomly,emergency
+want to discuss noise complaints with neighbors,non-emergency
+plumbing issue causing water damage,emergency
+thinking of installing security cameras,non-emergency
+requesting a rent increase justification,non-emergency
+need assistance with setting up mail forwarding,non-emergency
+elevator malfunctioning,emergency
+requesting maintenance for a broken dishwasher,non-emergency
+exploring options for lease termination,non-emergency
+spotted a suspicious package outside the building,emergency
+requesting early check-in arrangements,non-emergency
+unable to locate the property's Wi-Fi password,non-emergency
+need assistance with luggage storage options,non-emergency
+the dishwasher is not working properly,emergency
+inquiring about nearby grocery stores and restaurants,non-emergency
+experiencing issues with the TV remote,non-emergency
+asking for local transportation recommendations,non-emergency
+noticed a leaky faucet in the bathroom,emergency
+requesting extra blankets and pillows,non-emergency
+concerned about security measures in the building,emergency
+asking for a late checkout option,non-emergency
+looking for pet-friendly accommodations,non-emergency
+fire alarm going off due to cooking smoke,emergency
+inquiring about laundry facilities,non-emergency
+experiencing noisy neighbors late at night,emergency
+requesting restaurant delivery options,non-emergency
+noticing a strange odor in the bedroom,emergency
+asking about parking availability,non-emergency
+concerned about cleanliness and sanitation standards,emergency
+inquiring about child-friendly amenities,non-emergency
+need assistance with booking local tours or activities,non-emergency
+wondering about the property's cancellation policy,non-emergency
+experiencing difficulties with the keyless entry system,emergency
+requesting additional cleaning during the stay,non-emergency
+concerned about allergen-free accommodation options,non-emergency
+inquiring about the property's smoking policy,non-emergency
+noticing a malfunctioning air conditioning unit,emergency
+asking for recommendations for nearby attractions,non-emergency
+experiencing Wi-Fi connectivity issues,emergency
+requesting assistance with luggage transportation,non-emergency
+concerned about accessibility features for elderly guests,non-emergency
+requesting information about the nearest public transportation options,non-emergency
+experiencing a power outage in the unit,emergency
+inquiring about wheelchair-accessible accommodations,non-emergency
+asking for assistance with arranging airport transportation,non-emergency
+noticing a malfunctioning smoke detector,emergency
+requesting recommendations for pet-friendly parks,non-emergency
+concerned about noise levels from construction nearby,emergency
+inquiring about early luggage drop-off options,non-emergency
+asking for directions to the nearest pharmacy,non-emergency
+noticing a leak in the ceiling during heavy rain,emergency
+requesting information about local pet grooming services,non-emergency
+concerned about the presence of allergens in the property,emergency
+inquiring about the property's recycling policies,non-emergency
+asking for assistance with using the in-room entertainment system,non-emergency
+noticing a broken window lock,emergency
+requesting information about the property's security measures,non-emergency
+concerned about the property's fire safety procedures,emergency
+inquiring about late-night food delivery options,non-emergency
+asking for recommendations for family-friendly attractions,non-emergency
+noticing a foul odor coming from the kitchen sink,emergency
+requesting information about nearby hiking trails,non-emergency
+concerned about the cleanliness of the linens,emergency
+inquiring about the property's policy on hosting events,non-emergency
+asking for assistance with using the thermostat,non-emergency
+noticing a malfunctioning elevator,emergency
+requesting information about local cultural events,non-emergency
+concerned about the property's accessibility for guests with disabilities,emergency
+inquiring about bicycle rental options in the area,non-emergency
+asking for assistance with arranging a private chef,non-emergency
+noticing a strange noise coming from the HVAC system,emergency
+requesting information about nearby beach access,non-emergency
+concerned about the property's policy on noise disturbances,emergency
+Hi there! Can you provide a list of nearby dog-friendly restaurants?,non-emergency
+I'm having trouble connecting to the Wi-Fi. Can you assist me?,non-emergency
+Is there a gym or fitness center available on the property?,non-emergency
+Could you recommend some local attractions for sightseeing?,non-emergency
+I think there's a gas leak in the kitchen. It smells unusual.,emergency
+I need some extra towels and toiletries. Can they be delivered?,non-emergency
+The air conditioning unit seems to be making a lot of noise. Is it okay?,emergency
+Can you help me find a reliable taxi service for airport transfers?,non-emergency
+Is there a grocery store within walking distance?,non-emergency
+There's a water leak in the bathroom. It's getting worse.,emergency
+I'm interested in booking a tour. Do you have any recommendations?,non-emergency
+The heating system isn't working. It's quite cold in here.,emergency
+Is there a designated parking spot for my rental car?,non-emergency
+Can you arrange for a late check-out? I have a late flight.,non-emergency
+I noticed some mold in the shower. Can it be cleaned?,emergency
+Could you provide information about public transportation options?,non-emergency
+The fire alarm keeps beeping. Is there a problem with it?,emergency
+Can you recommend a good place for breakfast nearby?,non-emergency
+I locked myself out of the apartment. Can you send someone to help?,emergency
+Is there a policy regarding noise levels at night?,non-emergency
+The refrigerator is not cooling properly. Some of my food went bad.,emergency
+Can you confirm if there's a washer and dryer available for use?,non-emergency
+I'm experiencing issues with the TV remote. It's not responding.,non-emergency
+The smoke detector went off unexpectedly. Should I be concerned?,emergency
+Could you provide information about the property's security measures?,non-emergency
+I think there's a problem with the plumbing. The sink is clogged.,emergency
+I'm interested in extending my stay. Is that possible?,non-emergency
+Is there a policy for handling lost and found items?,non-emergency
+I accidentally broke a glass. Should I notify someone?,non-emergency
+The balcony door won't close properly. It feels unsafe.,emergency
+Can you recommend a good place for dinner that delivers?,non-emergency
+I need assistance with setting up the fold-out sofa bed.,non-emergency
+The lights in the bedroom keep flickering. It's quite annoying.,emergency
+Can you provide information about nearby pet grooming services?,non-emergency
+I'm having trouble accessing the building's main entrance. It's stuck.,emergency
+Is there a policy for guests bringing visitors to the property?,non-emergency
+The shower water is not getting hot enough. It's lukewarm.,emergency
+Can you arrange for a cleaning service during my stay?,non-emergency
+I noticed a strange smell in the hallway. It's bothering me.,emergency
+Is there a policy for smoking inside the apartment?,non-emergency
+The oven is not working. I can't cook my meals properly.,emergency
+Can you recommend a good place for shopping nearby?,non-emergency
+I need assistance with adjusting the thermostat. It's too hot.,emergency
+The carpet in the living room looks stained. Can it be cleaned?,non-emergency
+Is there a policy for handling maintenance requests?,non-emergency
+I'm having trouble with the keyless entry system. It's not working.,emergency
+Can you provide information about local emergency services?,non-emergency
+I think there's an electrical issue. Some outlets are not working.,emergency
+I'm interested in booking a massage. Do you have any recommendations?,non-emergency
+The balcony railing seems loose. I'm concerned about safety.,emergency
+Can you recommend a good place for live entertainment nearby?,non-emergency
+I accidentally spilled wine on the carpet. Should I clean it myself?,non-emergency
+The building's exterior lights are not working. It's quite dark.,emergency
+Can you provide information about nearby hiking trails?,non-emergency
+I'm experiencing issues with the dishwasher. It's not cleaning properly.,emergency
+Is there a policy for handling complaints or disputes?,non-emergency
+Fire broke out in the kitchen. Urgent assistance needed!,emergency
+Water pipe burst flooding the entire apartment.,emergency
+Gas leak detected in the building. Evacuation required!,emergency
+Carbon monoxide alarm going off. Suspected gas leak.,emergency
+Power outage in the entire building. No electricity at all.,emergency
+Severe storm damage to the property. Windows shattered.,emergency
+Found evidence of a break-in. Concerned about safety.,emergency
+Smoke filling the hallway. Fire alarm activated.,emergency
+Foul smell of gas throughout the apartment. Safety concern.,emergency
+Structural integrity compromised. Cracks appearing in walls.,emergency
+Sudden collapse of ceiling in the living room.,emergency
+Suspicious package found outside the building.,emergency
+Large-scale water leak from the ceiling. Property flooding.,emergency
+Witnessed an assault outside the property. Immediate action needed.,emergency
+Visible signs of mold infestation. Health hazard.,emergency
+Carbon monoxide poisoning suspected. Feeling dizzy.,emergency
+Electrical sparks from outlets. Fire hazard.,emergency
+Elevator malfunctioning with guests trapped inside.,emergency
+Explosion heard nearby. Concerned about safety.,emergency
+Suspicious activity with individuals attempting to enter property forcibly.,emergency
+Strong smell of smoke from neighboring apartment. Fire alarm not activated.,emergency
+Sudden collapse of balcony railing. Urgent safety concern.,emergency
+Experiencing severe allergic reaction. Suspected allergens in property.,emergency
+Found suspicious package in rental unit. Safety risk.,emergency
+Gas explosion heard nearby. Concerned about property safety.,emergency
+Elevator malfunction with guests trapped inside. Urgent assistance needed.,emergency
+Witnessed violent altercation near property. Safety concern.,emergency
+Visible signs of structural damage. Cracks in walls and ceilings.,emergency
+Severe storm damage. Roof partially collapsed.,emergency
+Sudden onset of severe flooding. Property inundated.,emergency
+Smoke filling hallway. Fire outbreak suspected.,emergency
+Severe allergic reaction to unknown substance in property.,emergency
+Sudden blackout in neighborhood. Property in darkness.,emergency
+Foul smell of gas throughout property. Gas leak suspected.,emergency
+Large-scale power outage. No electricity in property.,emergency
+Witnessed break-in at neighboring unit. Concerned about security.,emergency
+Strong smell of chemicals in property. Health hazard suspected.,emergency
+Witnessed assault outside property. Urgent police intervention needed.,emergency
+Suspicious individuals attempting forced entry. Security risk.,emergency
+Fire outbreak in neighboring building. Concerned about property safety.,emergency
+Sudden appearance of cracks in walls. Structural integrity concern.,emergency
+Violent altercation inside property. Immediate police assistance needed.,emergency
+Sudden appearance of mold in property. Health hazard.,emergency
+Witnessed car accident outside property. Emergency services required.,emergency
+Suspicious activity in neighborhood. Concerned about property safety.,emergency
+Severe allergic reaction to pest infestation. Urgent pest control needed.,emergency
+Sudden onset of severe weather. Property at risk.,emergency
+Strong smell of smoke from adjacent property. Fire risk.,emergency
+Witnessed criminal activity near property. Immediate action needed.,emergency
+Sudden blackout in property. Electrical issue suspected.,emergency
+Severe storm damage. Property flooding roof damaged.,emergency
+Witnessed assault inside property. Immediate police intervention required.,emergency
+Suspicious individuals lurking around property. Security risk.,emergency
+Sudden appearance of cracks in floors. Structural integrity concern.,emergency
+Large-scale fire outbreak nearby. Concerned about property safety.,emergency
+Sudden power outage. No electricity in property.,emergency
+Strong smell of gas in property. Gas leak suspected.,emergency
+Witnessed violent disturbance near property. Safety concern.,emergency
+Severe allergic reaction to unknown substance in property.,emergency
+Sudden blackout in area. Electrical issue suspected.,emergency
+Witnessed criminal activity near property. Immediate action required.,emergency
+Strong smell of smoke from neighboring unit. Fire risk.,emergency
+Sudden collapse of balcony. Urgent safety concern.,emergency
+Experiencing severe allergic reaction. Suspected allergens in property.,emergency
+Found suspicious package in property. Safety risk.,emergency
+Gas explosion nearby. Concerned about property safety.,emergency
+Elevator malfunction with guests inside. Urgent assistance needed.,emergency
+Witnessed violent altercation near property. Safety concern.,emergency
+Visible signs of structural damage. Cracks in walls and ceilings.,emergency
+Severe storm damage. Roof partially collapsed.,emergency
+Sudden onset of severe flooding. Property inundated.,emergency
+Smoke filling hallway. Fire outbreak suspected.,emergency
+Severe allergic reaction to unknown substance in property.,emergency
+Sudden blackout in neighborhood. Property in darkness.,emergency
+Foul smell of gas throughout property. Gas leak suspected.,emergency
+Large-scale power outage. No electricity in property.,emergency
+Witnessed break-in at neighboring unit. Concerned about security.,emergency
+Strong smell of chemicals in property. Health hazard suspected.,emergency
+Witnessed assault outside property. Urgent police intervention needed.,emergency
+Suspicious individuals attempting forced entry. Security risk.,emergency
+Severe storm damage to property. Windows shattered roof damaged.,emergency
+Fire outbreak in neighboring building. Concerned about property safety.,emergency
+Sudden appearance of cracks in walls. Structural integrity concern.,emergency
+Violent altercation inside property. Immediate police assistance needed.,emergency
+Sudden appearance of mold in property. Health hazard.,emergency
+Witnessed car accident outside property. Emergency services required.,emergency
+Suspicious activity in neighborhood. Concerned about property safety.,emergency
+Severe allergic reaction to pest infestation. Urgent pest control needed.,emergency
+Sudden onset of severe weather. Property at risk.,emergency
+Strong smell of smoke from adjacent property. Fire risk.,emergency
+Witnessed criminal activity near property. Immediate action needed.,emergency
+Sudden blackout in property. Electrical issue suspected.,emergency
+Severe storm damage. Property flooding roof damaged.,emergency
+Witnessed assault inside property. Immediate police intervention required.,emergency
+Suspicious individuals lurking around property. Security risk.,emergency
+Sudden appearance of cracks in floors. Structural integrity concern.,emergency
+Large-scale fire outbreak nearby. Concerned about property safety.,emergency
+Sudden power outage. No electricity in property.,emergency
+Strong smell of gas in property. Gas leak suspected.,emergency
+Witnessed violent disturbance near property. Safety concern.,emergency
+Severe allergic reaction to unknown substance in property.,emergency
+Sudden blackout in area. Electrical issue suspected.,emergency
+Witnessed criminal activity near property. Immediate action required.,emergency
+Strong smell of smoke from neighboring unit. Fire risk.,emergency
+Sudden collapse of balcony. Urgent safety concern.,emergency
+Experiencing severe allergic reaction. Suspected allergens in property.,emergency
+Found suspicious package in property. Safety risk.,emergency
+Gas explosion nearby. Concerned about property safety.,emergency
+Elevator malfunction with guests inside. Urgent assistance needed.,emergency
+Witnessed violent altercation near property. Safety concern.,emergency
+Visible signs of structural damage. Cracks in walls and ceilings.,emergency
+Severe storm damage. Roof partially collapsed.,emergency
+Sudden onset of severe flooding. Property inundated.,emergency
+Smoke filling hallway. Fire outbreak suspected.,emergency
+Severe allergic reaction to unknown substance in property.,emergency
+Sudden blackout in neighborhood. Property in darkness.,emergency
+Foul smell of gas throughout property. Gas leak suspected.,emergency
+Large-scale power outage. No electricity in property.,emergency
+Witnessed break-in at neighboring unit. Concerned about security.,emergency
+Strong smell of chemicals in property. Health hazard suspected.,emergency
+Witnessed assault outside property. Urgent police intervention needed.,emergency
+Suspicious individuals attempting forced entry. Security risk.,emergency
+Severe storm damage to property. Windows shattered roof damaged.,emergency
+Fire outbreak in neighboring building. Concerned about property safety.,emergency
+Sudden appearance of cracks in walls. Structural integrity concern.,emergency
+Violent altercation inside property. Immediate police assistance needed.,emergency
+Sudden appearance of mold in property. Health hazard.,emergency
+Witnessed car accident outside property. Emergency services required.,emergency
+Suspicious activity in neighborhood. Concerned about property safety.,emergency
+Severe allergic reaction to pest infestation. Urgent pest control needed.,emergency
+Hi there! Just arrived and wanted to confirm the Wi-Fi password.,non-emergency
+Could you provide some recommendations for local restaurants?,non-emergency
+Is there a supermarket nearby where I can buy groceries?,non-emergency
+Wondering if there's a washer and dryer available for guest use.,non-emergency
+I noticed a minor issue with the shower drain. Can it be fixed?,non-emergency
+Could you recommend any nearby attractions for sightseeing?,non-emergency
+Is it possible to extend my stay by a few days? Let me know.,non-emergency
+I accidentally locked myself out. Can you help with a spare key?,non-emergency
+Just checking in to confirm the check-out time for tomorrow.,non-emergency
+Is there a local gym or fitness center that guests can use?,non-emergency
+Wondering if there's a late-night food delivery service in the area.,non-emergency
+Could you provide information about public transportation options?,non-emergency
+I'm interested in booking a tour. Do you have any recommendations?,non-emergency
+Can you assist with arranging transportation to the airport?,non-emergency
+Is there a policy regarding visitors or guests at the property?,non-emergency
+Wondering if there are any nearby parks or green spaces to explore.,non-emergency
+Is there a coffee maker in the unit? Need my morning coffee fix!,non-emergency
+Just arrived and everything looks great! Thanks for the smooth check-in.,non-emergency
+I have a question about the parking situation. Can you provide details?,non-emergency
+Is there a local pharmacy or convenience store nearby?,non-emergency
+Just wanted to confirm the amenities listed in the property description.,non-emergency
+Is there a policy for handling lost items? I misplaced my sunglasses.,non-emergency
+I'm interested in booking a massage during my stay. Any recommendations?,non-emergency
+Wondering if there's a policy for smoking on the balcony.,non-emergency
+Could you provide information about nearby shopping options?,non-emergency
+Is there a guest guide or manual with local tips and recommendations?,non-emergency
+Just wanted to say that everything is going smoothly so far. Thanks!,non-emergency
+Can you recommend any nearby beaches or waterfront areas?,non-emergency
+Is there a policy for pets? I'm considering bringing my small dog.,non-emergency
+Wondering if there's a local farmer's market to visit during my stay.,non-emergency
+Just checking in to see if there are any events happening nearby.,non-emergency
+Is there a policy for early check-in or late check-out requests?,non-emergency
+I'm interested in trying some local cuisine. Any restaurant recommendations?,non-emergency
+Wondering if there's a recycling bin available for use at the property.,non-emergency
+Can you provide information about the property's security measures?,non-emergency
+Is there a policy for handling noise complaints or disturbances?,non-emergency
+Just wanted to confirm the check-in instructions for my arrival tomorrow.,non-emergency
+I'm interested in exploring some hiking trails nearby. Any suggestions?,non-emergency
+Wondering if there's a way to adjust the thermostat in the unit.,non-emergency
+Can you provide information about any nearby cultural or historical sites?,non-emergency
+Is there a policy for handling maintenance or repair requests?,non-emergency
+Just wanted to check if there's a hairdryer available in the bathroom.,non-emergency
+I'm interested in booking a cooking class during my stay. Any options?,non-emergency
+Wondering if there's a policy for early morning or late-night arrivals.,non-emergency
+Can you recommend any nearby wineries or vineyards to visit?,non-emergency
+Is there a policy for handling guest feedback or reviews?,non-emergency
+Just checking in to see if there are any grocery delivery services available.,non-emergency
+I'm interested in booking a boat tour or cruise. Any recommendations?,non-emergency
+Wondering if there's a way to contact emergency services if needed.,non-emergency
+Forgot the access code for the keyless entry system. Can you remind me?,non-emergency
+Requesting an early check-in due to an early flight arrival.,non-emergency
+Experiencing slow drainage in the bathroom sink.,emergency
+Interested in booking a private chef for a special occasion.,non-emergency
+Noticed a loose tile in the shower. Concerned about safety.,emergency
+Requesting information about nearby public transit options.,non-emergency
+Lost my phone charger in the apartment. Any chance it was found?,non-emergency
+Received a noise complaint from neighbors. Can we discuss?,emergency
+Wondering if the property offers bicycle rental services.,non-emergency
+Experiencing difficulty using the coffee machine. Any tips?,non-emergency
+Child accidentally locked the bathroom door from the inside. Need help!,emergency
+Inquiring about nearby pet-friendly parks and walking trails.,non-emergency
+Noticed a crack in the bedroom window. Should I be concerned?,emergency
+Requesting information about local farmers' markets for fresh produce.,non-emergency
+Locked out of the apartment. Can you arrange for a spare key?,emergency
+Concerned about bed bugs after finding bites on skin.,emergency
+Requesting late-night food delivery options in the area.,non-emergency
+Noticed a broken chair on the balcony. Can it be repaired?,emergency
+Wondering if the property provides beach towels for guest use.,non-emergency
+Experiencing a strange smell coming from the air vents.,emergency
+Requesting assistance with setting up the streaming service on the TV.,non-emergency
+Noticed a leak under the kitchen sink. Urgent assistance needed!,emergency
+Concerned about the security of personal belongings in the apartment.,emergency
+Requesting recommendations for nearby cultural museums.,non-emergency
+Received a parking ticket. Is there a guest parking pass available?,non-emergency
+Noticed water stains on the ceiling. Worried about potential leaks.,emergency
+Requesting information about local winery tours.,non-emergency
+Accidentally spilled wine on the carpet. How should I clean it?,non-emergency
+Experiencing Wi-Fi connectivity issues in the bedroom.,non-emergency
+Requesting an extra set of keys for additional guests.,non-emergency
+Noticed a malfunctioning fire alarm. Is there a maintenance check?,emergency
+Inquiring about the property's policy on recycling and waste disposal.,non-emergency
+Concerned about the cleanliness of the bedding. Can it be changed?,emergency
+Requesting information about the nearest medical facilities.,non-emergency
+Experiencing frequent power outages in the apartment.,emergency
+Requesting recommendations for family-friendly restaurants.,non-emergency
+Noticed a chip in the kitchen countertop. Can it be repaired?,emergency
+Inquiring about the property's policy on late-night gatherings.,non-emergency
+Requesting assistance with booking tickets for local events.,non-emergency
+Concerned about the safety of balcony railings for children.,emergency
+Requesting information about nearby shopping districts.,non-emergency
+Experiencing a malfunctioning dishwasher. Water not draining properly.,emergency
+Noticed a broken light fixture in the living room. Can it be fixed?,emergency
+Requesting recommendations for scenic hiking trails.,non-emergency
+Inquiring about the property's policy on smoking on the premises.,non-emergency
+Concerned about the noise from nearby construction work.,emergency
