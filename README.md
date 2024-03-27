@@ -3,12 +3,13 @@ Welcome to our Emergency Alert System project! This project is designed to autom
 ## Built with Flask, Twilio, and scikit-learn, it's an efficient way to handle potential crises. 🆘
 
 ## Features
-### Automatic Detection: Utilizes a Logistic Regression model to classify text messages as emergency or non-emergency. 🤖
-### SMS Alerts: Sends SMS alerts for emergency situations using Twilio's API. 📱
-### Real-time Processing: Integrates with webhooks to process incoming messages in real-time. ⏱️
-### Data-driven Insights: Leverages a pre-trained model on a clean dataset for accurate emergency detection. 📊
-### Scalable Architecture: Built with Flask, making it easy to scale and integrate with other services. 📈
-### Getting Started
+ Automatic Detection: Utilizes a Logistic Regression model to classify text messages as emergency or non-emergency. 🤖
+ SMS Alerts: Sends SMS alerts for emergency situations using Twilio's API. 📱
+ Real-time Processing: Integrates with webhooks to process incoming messages in real-time. ⏱️
+ Data-driven Insights: Leverages a pre-trained model on a clean dataset for accurate emergency detection. 📊
+ Scalable Architecture: Built with Flask, making it easy to scale and integrate with other services. 📈
+
+## Getting Started
 
 ## Prerequisites
 Python 3.8+
